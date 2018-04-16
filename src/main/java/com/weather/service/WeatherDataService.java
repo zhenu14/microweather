@@ -1,6 +1,6 @@
 package com.weather.service;
 
-import com.weather.vo.WeatherResponse;
+import com.weather.vo.weather.WeatherResponse;
 
 public interface WeatherDataService {
     /**
