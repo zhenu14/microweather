@@ -6,7 +6,7 @@
 Gradle 
 Spring Boot 
 Apache HttpClient 
+ 
+# 新增和风天气API获取天气数据
 
-天气数据来源为中华万年历。例如：
---通过城市名字获得天气数据 ：http://wthrcdn.etouch.cn/weather_mini?city=深圳
---通过城市id获得天气数据：http://wthrcdn.etouch.cn/weather_mini?citykey=101280601
+# 持久化数据到数据库
